@@ -1,0 +1,14 @@
+title: 8-week-i-s
+lang: en
+description: 8-week-interview-sprint
+
+remote_theme: Appdynamics/jekyll-rtd-theme
+
+readme_index:
+  with_frontmatter: true
+
+exclude:
+  - Makefile
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
